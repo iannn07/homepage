@@ -2,7 +2,7 @@
 
 # Welcome to My Portfolio Repositories
 
-Hi there, this is my repository for my Web Portfolio.
+Hi there, Ian here.
 
 I'm interested in Database Management, Analysing Data, Statistics, and many things about data! In other hand, I have another interests such as Medical and Automotive.
 
