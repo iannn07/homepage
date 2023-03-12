@@ -1,6 +1,6 @@
 <h1 align="center">Ian's Portfolio</h1>
 
-# Welcome to My Portfolio Repositories
+# Welcome to My Portfolio
 
 Hi there, Ian here.
 
