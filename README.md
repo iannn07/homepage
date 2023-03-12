@@ -21,7 +21,7 @@ I used several programming language for my data things such as R and Python. Mea
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="laravel.svg" title="Laravel" alt="Laravel" width="35" height="35"/>&nbsp;
 </div>
-
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannn07&layout=compact&theme=dark#gh-dark-mode-only"></p>
 
 ## Contact Me
