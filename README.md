@@ -24,10 +24,10 @@ I used several programming language for my data things such as R and Python. Mea
 
 ## Contact Me
 
-If you want to get in touch, you can reach me at:
+Get in touch with me at:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/pristian-budi-dharmawan/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="LinkedIn" width="25" height="25">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="LinkedIn" alt="LinkedIn" width="35" height="35">
     </a>
 </div>
