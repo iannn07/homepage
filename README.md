@@ -19,7 +19,7 @@ I used several programming languages for my data things such as R and Python. Me
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="tableau-software.svg" title="Tableau" alt="Tableau" width="50" height="50"/>&nbsp;
   <img src="laravel.svg" title="Laravel" alt="Laravel" width="35" height="35"/>&nbsp;
 </div>
 <br>
