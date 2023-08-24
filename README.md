@@ -4,9 +4,9 @@
 
 Hi there, Ian here.
 
-I'm interested in Database Management, Analysing Data, Statistics, and many things about data! On the other hand, I have other interests such as Medical and Automotive.
+I'm interested in Big Data, Analysing Data, Math/Statistics, and many things about data! On the other hand, I have other interests such as Medical and Automotive.
 
-I used several programming languages for my data things such as R and Python. Meanwhile, my primary tools are Excel and Tableau for DataViz or Data Management.
+I used several programming languages for me to play with the data such as R and Python. Meanwhile, my primary tools are Excel, Tableau, and PowerBI for DataViz or Data Management.
 
 ## Languages & Tools:
 
