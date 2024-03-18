@@ -14,13 +14,9 @@ Not just about data, I also fell in love with full-stack development and current
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iannn07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iannn07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iannn07&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannn07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=iannn07&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials
 
