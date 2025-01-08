@@ -4,9 +4,7 @@
 
 Hi there, Ian here.
 
-I'm interested in Big Data, Analysing Data, Math/Statistics, and many things about data! On the other hand, I have other interests such as Medical and Automotive.
-
-Not just about data, I also fell in love with full-stack development and currently, I'm learning React TypeScript and Flutter.
+I'm a T-shaped developer with expertise in Full Stack Web Development with a broad knowledge of AI. In my development life, I concentrate on developing products or code that is scalable, powerful, high-performance, and robust just like many sports cars did.
 
 ## 💻 Tech Stack
 
@@ -45,7 +43,7 @@ Not just about data, I also fell in love with full-stack development and current
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pristian-budi-dharmawan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pristian-budi-dharmawan/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iannn07&icon=0&color=0)](https://visitcount.itsvg.in)
